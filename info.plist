@@ -9,9 +9,233 @@
 	<key>description</key>
 	<string>TextMate Bundle for
 basil.js // http://basiljs.ch/</string>
+	
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C58154DB-86AD-4977-981D-F4296E7427F8</string>
+			<string>------------------------------------</string>
+			<string>4F72F280-FE5B-45EF-8FAC-6144DE30F76E</string>
+			<string>D98495EF-A2ED-45AB-86CA-233E4BC4EA2F</string>
+			<string>ADBCE665-D20E-4BB9-996B-D915A8FB99DF</string>
+			<string>2D6AA910-8063-44C1-8A01-ACDEADAA0A2D</string>
+			<string>70874302-D29A-4667-9FDB-1684F64BEE41</string>
+			<string>F861DF00-9068-4430-81C7-9C70D9E30ADB</string>
+			<string>3346869C-D736-450D-93B3-CBD8D2935D75</string>
+			<string>B8CACFBA-A8E4-47D1-BED6-30C753139436</string>
+		</array>
+
+		<key>submenus</key>
+		<dict>
+			<key>C58154DB-86AD-4977-981D-F4296E7427F8</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>FCB1B73F-570F-43D6-9F3C-230A2063F49D</string>
+					<string>97046C52-2F8A-4904-9A8E-42DAD36E5A4B</string>
+					<string>------------------------------------</string>
+					<string>0CBF0157-7804-497A-9902-CECFE039967B</string>
+				</array>
+				<key>name</key>
+				<string>Base</string>
+			</dict>
+
+			<key>4F72F280-FE5B-45EF-8FAC-6144DE30F76E</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Color</string>
+			</dict>
+
+			<key>D98495EF-A2ED-45AB-86CA-233E4BC4EA2F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Data</string>
+			</dict>
+
+			<key>ADBCE665-D20E-4BB9-996B-D915A8FB99DF</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>982D168C-6CA0-46B4-885C-37CC7073DF0C</string>
+					<string>A26D7701-AC3C-4879-9127-90A91D65B3ED</string>
+					<string>BE76C8E2-7CE4-41C4-9BC6-1C13E9CF4E20</string>
+					<string>62CBC305-09FF-49C7-A565-4DD1A3AA93E0</string>
+					<string>AFEA3323-5C03-4F91-98DB-4D12BFE4339F</string>
+					<string>58D0190D-68C0-4AEB-A3C6-1EEB2386EE5F</string>
+					<string>ACA8DE6A-B115-4885-BA41-79E6A469A87A</string>
+					<string>874A6224-1BC5-4D58-9CC7-C81871043F76</string>
+					<string>9622F9D4-956F-4F51-9993-5F1A653BF656</string>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Document</string>
+			</dict>
+
+			<key>982D168C-6CA0-46B4-885C-37CC7073DF0C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Attributes</string>
+			</dict>
+
+			<key>A26D7701-AC3C-4879-9127-90A91D65B3ED</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Image</string>
+			</dict>
+
+			<key>BE76C8E2-7CE4-41C4-9BC6-1C13E9CF4E20</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Multi-Getters</string>
+			</dict>
+
+			<key>62CBC305-09FF-49C7-A565-4DD1A3AA93E0</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Page</string>
+			</dict>
+
+			<key>AFEA3323-5C03-4F91-98DB-4D12BFE4339F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Primitives</string>
+			</dict>
+
+			<key>58D0190D-68C0-4AEB-A3C6-1EEB2386EE5F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Transformation</string>
+			</dict>
+
+			<key>ACA8DE6A-B115-4885-BA41-79E6A469A87A</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Type-Check</string>
+			</dict>
+
+			<key>874A6224-1BC5-4D58-9CC7-C81871043F76</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Units</string>
+			</dict>
+
+			<key>9622F9D4-956F-4F51-9993-5F1A653BF656</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>8DEFE56A-AC62-431E-9C50-906A6A2C1901</string>
+				</array>
+				<key>name</key>
+				<string>Misc</string>
+			</dict>
+
+			<key>2D6AA910-8063-44C1-8A01-ACDEADAA0A2D</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Environment</string>
+			</dict>
+
+			<key>70874302-D29A-4667-9FDB-1684F64BEE41</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Math</string>
+			</dict>
+
+			<key>F861DF00-9068-4430-81C7-9C70D9E30ADB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>DA76A1FC-EC64-47CA-AE54-34E2DE07FD8D</string>
+					<string>12A56E0B-97B4-4319-9845-B9EE4DE1E0D6</string>
+					<string>D0406C63-F4A6-407E-AEC7-E808C3A3F29D</string>
+				</array>
+				<key>name</key>
+				<string>Output</string>
+			</dict>
+
+			<key>3346869C-D736-450D-93B3-CBD8D2935D75</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>------------------------------------</string>
+				</array>
+				<key>name</key>
+				<string>Story</string>
+			</dict>
+
+			<key>B8CACFBA-A8E4-47D1-BED6-30C753139436</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>52DAE085-40B8-4DCE-AEA9-FF68F809BB34</string>
+				</array>
+				<key>name</key>
+				<string>Typography</string>
+			</dict>
+		</dict>
+	</dict>
+	
+	
+	
 	<key>name</key>
 	<string>basiljs</string>
+
+	<key>ordering</key>
+	<array>
+		<string>------------------------------------</string>
+	</array>
+	
 	<key>uuid</key>
 	<string>810F4CCC-BB77-487F-B1DD-D93D37D13C1C</string>
 </dict>
+
 </plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>function draw() {
+
+  b.doc();
+  b.text("Hello World", 100, 100, 200, 50);
+
+}
+
+b.go();</string>
+	<key>name</key>
+	<string>function draw</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fund</string>
+	<key>uuid</key>
+	<string>0CBF0157-7804-497A-9902-CECFE039967B</string>
+</dict>
+</plist>

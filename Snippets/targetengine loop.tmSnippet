@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#targetengine "loop";
+
+</string>
+	<key>name</key>
+	<string>#targetengine loop</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>taloop</string>
+	<key>uuid</key>
+	<string>97046C52-2F8A-4904-9A8E-42DAD36E5A4B</string>
+</dict>
+</plist>
