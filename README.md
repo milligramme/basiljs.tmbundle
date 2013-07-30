@@ -18,10 +18,10 @@ For use with [basil.js // ](http://basiljs.ch/)
 [http://basiljs.ch/reference/](http://basiljs.ch/reference/)
 
 * Color
-    * blendMode()
+    * *blendMode()*
     * CMYK
     * color()
-    * colorMode()
+    * *colorMode()*
     * fill()
     * fillTint()
     * lerpColor()
@@ -96,8 +96,8 @@ For use with [basil.js // ](http://basiljs.ch/)
 
 * Document
     * Attributes
-        * ellipseMode()
-        * rectMode()
+        * *ellipseMode()*
+        * *rectMode()*
         * strokeWeight()
     * Image
         * image()
@@ -140,7 +140,7 @@ For use with [basil.js // ](http://basiljs.ch/)
         * CLOSE
         * CORNER
         * CORNERS
-        * ellipse()
+        * *ellipse()*
         * endShape()
         * line()
         * RADIUS
@@ -176,7 +176,7 @@ For use with [basil.js // ](http://basiljs.ch/)
     * Misc
         * clear()
         * close()
-        * doc()
+        * *doc()*
         * guideX()
         * guideY()
         * remove()
@@ -246,9 +246,9 @@ For use with [basil.js // ](http://basiljs.ch/)
 
 * Output
     * inspect()
-    * print()
-    * printInfo()
-    * println()
+    * *print()*
+    * *printInfo()*
+    * *println()*
     * savePDF()
     * savePNG()
     * saveStrings()
@@ -262,7 +262,7 @@ For use with [basil.js // ](http://basiljs.ch/)
     * characterStyle()
     * objectStyle()
     * paragraphStyle()
-    * text()
+    * *text()*
     * textAlign()
     * textFont()
     * textKerning()

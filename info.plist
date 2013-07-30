@@ -45,6 +45,8 @@ basil.js // http://basiljs.ch/</string>
 			<dict>
 				<key>items</key>
 				<array>
+					<string>4003D7A9-51B9-485A-8C53-572209C0EB07</string>
+					<string>D9D0253D-66F1-46BB-A424-88ED09786CFE</string>
 					<string>------------------------------------</string>
 				</array>
 				<key>name</key>
@@ -84,6 +86,8 @@ basil.js // http://basiljs.ch/</string>
 			<dict>
 				<key>items</key>
 				<array>
+					<string>B82F1513-220D-492C-B524-5932C5C4956D</string>
+					<string>5B3584AD-1CC6-4F5C-AB62-51F4B073A16A</string>
 					<string>------------------------------------</string>
 				</array>
 				<key>name</key>
@@ -124,6 +128,7 @@ basil.js // http://basiljs.ch/</string>
 			<dict>
 				<key>items</key>
 				<array>
+					<string>4978F76B-B8CC-4304-89EF-6D81E23CFEAF</string>
 					<string>------------------------------------</string>
 				</array>
 				<key>name</key>
