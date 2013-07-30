@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>b.rectMode( b.${1:${10:CENTER
+  }${11:CORNER
+  }${12:CORNERS
+}});</string>
+	<key>name</key>
+	<string>b.rectMode</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>brectm</string>
+	<key>uuid</key>
+	<string>5B3584AD-1CC6-4F5C-AB62-51F4B073A16A</string>
+</dict>
+</plist>
